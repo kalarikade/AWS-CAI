@@ -1,5 +1,5 @@
 {
-  "remoteURL": "https://github.com/kalarikade/ObsidianAWS.git",
+  "remoteURL": "git@github.com:kalarikade/ObsidianAWS.git",
   "gitLocation": "",
   "syncinterval": 0,
   "isSyncOnLoad": true,
