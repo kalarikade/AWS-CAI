@@ -57,7 +57,7 @@
   },
   "Added Media": [],
   "File Hashes": {
-    "Machine Learning Managed services.md": "1ea1bc0848485bf8d6098c51bf4f29c7",
+    "Machine Learning Managed services.md": "ed839d57b9441ad45f4347f4643de033",
     "Machine Learning Tools.md": "6bc724256b381c2c4f0f74b2583564ea",
     "Choosing a machine learning algo.md": "21bab8acccd8baf351d7bc17779ec727",
     "Overfitting or underfitting.md": "ad777b811a3a25310f70769cbc724806",
@@ -65,7 +65,8 @@
     "Machine Learning Terminolog.md": "d41d8cd98f00b204e9800998ecf8427e",
     "Machine Learning terminology.md": "401e3fa004021dc49c0ab25a58ec02a2",
     "Untitled 1.md": "0b1f140f444331ba1f77923963e4a423",
-    "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e"
+    "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
+    "Types of Foundation Models.md": "7cd7595118d7d456f6146dd6d7668eb5"
   },
   "fields_dict": {
     "Basic": [

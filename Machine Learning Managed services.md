@@ -23,11 +23,17 @@ END
 ## Language
 ### Amazon Comprehend
 Uses natural language processing (NLP) to find insights and relationships in text.
+<!--ID: 1751234269207-->
+
 
 ### Amazon Translate
 Can translate text into different language
+<!--ID: 1751234269288-->
+
 
 ## Recommendations
 ### Amazon Personalize
 Another machine learning service that can help you create individual personalized recommendations for customers.
+<!--ID: 1751234269370-->
+
 
