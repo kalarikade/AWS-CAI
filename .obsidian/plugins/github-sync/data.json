@@ -1,7 +1,7 @@
 {
-  "remoteURL": "git@github.com:kalarikade/ObsidianAWS.git",
+  "remoteURL": "git@github.com:kalarikade/AWS-CAI.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": true,
+  "isSyncOnLoad": false,
   "checkStatusOnLoad": true
 }
