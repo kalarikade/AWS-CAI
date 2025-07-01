@@ -143,7 +143,7 @@
               "type": "outline",
               "state": {
                 "file": "Amazon Bedrock Model Providers.md",
-                "followCursor": false,
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
@@ -167,10 +167,11 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "ee40a35d6d6920d7",
+  "active": "05d94df03eb3694f",
   "lastOpenFiles": [
     "ssh_key",
     "Amazon Bedrock Model Providers.md",
