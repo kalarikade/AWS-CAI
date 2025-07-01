@@ -5,4 +5,5 @@
 * Efficient Retrieval: 
 * Scalability
 * Cost-Effectiveness
-* Integration*
+* Integration* 
+* 
