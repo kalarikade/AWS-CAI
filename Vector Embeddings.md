@@ -6,4 +6,3 @@
 * Scalability
 * Cost-Effectiveness
 * Integration* 
-* 

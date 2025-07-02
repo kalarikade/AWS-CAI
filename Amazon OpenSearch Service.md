@@ -1,4 +1,4 @@
-* *k-NN Search*: Efficiently perform k-nearest neighbor searches to find similar embeddings.
+\ *k-NN Search*: Efficiently perform k-nearest neighbor searches to find similar embeddings.
 * *Vector Field Support:* Optimized for storing and searching vector data.
 * *Scalability & Analytics*: Scale to massive datasets and perform analytics on embeddings.
 * *Use Cases:*
@@ -8,4 +8,4 @@
 * Amazon DocumentDB
 * Amazon Aurora
 * Amazon RDS for PostgreSQL - relational database, open-source.
-* Amazon Neptune - graph database.*
+* ".mnxzAmazon Neptune - graph database.*
