@@ -4,3 +4,8 @@
 * *Use Cases:*
 	* Similarity search applications (e.g., product recomendations, image retrieval.)
 	* Building complex search and analytics pipelines.
+## Other RAG Vector Databases
+* Amazon DocumentDB
+* Amazon Aurora
+* Amazon RDS for PostgreSQL - relational database, open-source.
+* Amazon Neptune - graph database.*
