@@ -10,6 +10,8 @@
 	* Text generation, chat, embeddings: Priced based on token usage.
 	* Image generation, image editing: priced per image.
 *Model selection*: Each foundation model has its own pricing.
+<!--ID: 1751564205141-->
+
 
 ## Pricing Tools
 * Amazon Bedrock Flows
@@ -18,4 +20,6 @@
 * Model Evaluation
 * Custom Model Import
 * Custom Model Storage.*
+<!--ID: 1751564205224-->
+
 

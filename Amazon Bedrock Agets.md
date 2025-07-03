@@ -9,12 +9,16 @@
 * **Faster Development**: Streamline the process of building AI-powered applications
 * **Reduced Complexity**: Abstract away the complexities of managing infrastructure and integrating different services.
 * **Improved User Experience**: Create more engaging and interactive AI experiences.
+<!--ID: 1751564205301-->
+
 
 ## Advanced Agent Customization
 **Custom Actions**: Develop your own actions using AWS Lambda functions for more complex integrations.
 **Fine-tuned Models**: Use fine-tuned foundation models to improve agent performance for specific tasks.
 **Knowledge Bases**: Integrate agents with knowledge bases to provide accurate and up-to-date information.
 **Personalization**: Leverage user data and history to create personalized agent experiences.
+<!--ID: 1751564205374-->
+
 
 ## Security and Privacy with Bedrock Agents
 * Access Control: Control who can access and manage your agents:
@@ -24,4 +28,6 @@
 	* Encryption: your data is encrypted both when stored and when being transmitted..
 	* VPC Support: deploy you agents inside your own Virtual Private Cloud (VPC) for extra security.
 * Compliance : Bedrock meets industry security & privacy standards, so you can build with confidence.*
+<!--ID: 1751564205382-->
+
 

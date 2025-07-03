@@ -55,7 +55,9 @@
       "**/*.excalidraw.md"
     ]
   },
-  "Added Media": [],
+  "Added Media": [
+    "Pasted image 20250701034804.png"
+  ],
   "File Hashes": {
     "Machine Learning Managed services.md": "ed839d57b9441ad45f4347f4643de033",
     "Machine Learning Tools.md": "6bc724256b381c2c4f0f74b2583564ea",
@@ -66,7 +68,16 @@
     "Machine Learning terminology.md": "401e3fa004021dc49c0ab25a58ec02a2",
     "Untitled 1.md": "0b1f140f444331ba1f77923963e4a423",
     "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
-    "Types of Foundation Models.md": "7cd7595118d7d456f6146dd6d7668eb5"
+    "Types of Foundation Models.md": "7cd7595118d7d456f6146dd6d7668eb5",
+    "Machine Learning.md": "9e1b4581f933b5d334fd0265c0d84035",
+    "Amazon Bedrock Pricing.md": "22c5d82c18486449f51677d8e7c88644",
+    "Amazon Bedrock Agets.md": "3d79c6702cd5dacb0747e84e6f496f8f",
+    "Vector Embeddings.md": "7474b71e506c6da65e202d1ed79315ed",
+    "README.md": "686cb5ba18bf39c27f54a13977fa814c",
+    "RAG.md": "ff7ef4a00b0138b062e44ee89bb3421b",
+    "Amazon Bedrock Model Providers.md": "50adc3d25d554fa83c48e4efd99e611b",
+    "Amazon OpenSearch Service.md": "f10b1d3188aaadb33104ef54adbadda2",
+    "Amazon Bedrock Model Providers 1.md": "11d99ff230c7f7bf7499aeadbd37a6ed"
   },
   "fields_dict": {
     "Basic": [

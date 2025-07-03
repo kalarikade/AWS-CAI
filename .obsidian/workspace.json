@@ -48,9 +48,37 @@
               "icon": "lucide-file",
               "title": "Amazon Bedrock Pricing"
             }
+          },
+          {
+            "id": "da3a919497c9fdb5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Machine Learning"
+            }
+          },
+          {
+            "id": "a05f34f32cef8cda",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Vs ML Vs Deep Learning.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "AI Vs ML Vs Deep Learning"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -209,10 +237,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8e121a4c42fd31b",
+  "active": "a05f34f32cef8cda",
   "lastOpenFiles": [
-    "Amazon Bedrock Agets.md",
+    "Machine Learning.md",
+    "AI Vs ML Vs Deep Learning.md",
     "Amazon Bedrock Pricing.md",
+    "Amazon Bedrock Agets.md",
     "Vector Embeddings.md",
     "Amazon Bedrock Model Providers.md",
     "Amazon Bedrock Model Providers 1.md",
