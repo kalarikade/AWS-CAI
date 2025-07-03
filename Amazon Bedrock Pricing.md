@@ -6,4 +6,16 @@
 *Model Usage*: you pay for the actual usage of foundation models.
 	* Text Models: Priced per 1000 token processed (input & output).
 	* Image Models: Priced per image generated or processed.
-*Request Type*
+*Request Type*: Different API requests have different pricing. 
+	* Text generation, chat, embeddings: Priced based on token usage.
+	* Image generation, image editing: priced per image.
+*Model selection*: Each foundation model has its own pricing.
+
+## Pricing Tools
+* Amazon Bedrock Flows
+* Knowledge Bases
+* Amazon Bedrock Guardrails
+* Model Evaluation
+* Custom Model Import
+* Custom Model Storage.*
+
