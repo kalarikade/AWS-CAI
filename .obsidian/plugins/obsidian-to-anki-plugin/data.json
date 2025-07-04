@@ -69,7 +69,7 @@
     "Untitled 1.md": "0b1f140f444331ba1f77923963e4a423",
     "Untitled.md": "d41d8cd98f00b204e9800998ecf8427e",
     "Types of Foundation Models.md": "7cd7595118d7d456f6146dd6d7668eb5",
-    "Machine Learning.md": "9e1b4581f933b5d334fd0265c0d84035",
+    "Machine Learning.md": "e17d5a026f874df605118c88350ec26a",
     "Amazon Bedrock Pricing.md": "22c5d82c18486449f51677d8e7c88644",
     "Amazon Bedrock Agets.md": "3d79c6702cd5dacb0747e84e6f496f8f",
     "Vector Embeddings.md": "7474b71e506c6da65e202d1ed79315ed",
@@ -77,7 +77,8 @@
     "RAG.md": "ff7ef4a00b0138b062e44ee89bb3421b",
     "Amazon Bedrock Model Providers.md": "50adc3d25d554fa83c48e4efd99e611b",
     "Amazon OpenSearch Service.md": "f10b1d3188aaadb33104ef54adbadda2",
-    "Amazon Bedrock Model Providers 1.md": "11d99ff230c7f7bf7499aeadbd37a6ed"
+    "Amazon Bedrock Model Providers 1.md": "11d99ff230c7f7bf7499aeadbd37a6ed",
+    "AI Vs ML Vs Deep Learning.md": "a741b8c9ceac6e8a7e112e03d15393a0"
   },
   "fields_dict": {
     "Basic": [

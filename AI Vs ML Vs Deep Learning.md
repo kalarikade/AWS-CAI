@@ -6,6 +6,8 @@
 
 # Types of Data in ML
 ==Data is the lifebblood of machine learning. Algorithms learn patterns and make predictions based on the data they are trained on.==
+<!--ID: 1751612411944-->
+
 
 *==Structured Data==*
 Data organized in a predefined format, typically with rows and columns, making it easy to store, access, and analyze.
@@ -71,3 +73,31 @@ Continuous: 1.1, 3.3
 ## Types of machine learning
 *Supervised Learning*: The algorithm learns from labelled examples, like a student learning from a textbook with answer keys.
 *Unsupervised Learning*: The algorithm finds patterns in unlabeled data, like a detective piecing together clues without knowing the solution beforehand.
+*Reinforcement Learning*: The algorithm learns by interacting with an environment and receiving rewards or penalties, like a robot learning to navigate a maze through trial and error.
+<!--ID: 1751612412044-->
+
+![[Pasted image 20250704030444.png]]
+
+![[Pasted image 20250704030517.png]]
+
+![[Pasted image 20250704030624.png]]
+
+## Steps for Machine Learning
+Step 1: Problem Definition
+A well-defied ML problem has :
+* Measurable goals
+* Available Data
+* Feasibility
+
+Step 2: Data Collection & Preparation
+
+Step 3: Model Selection
+
+Step 4: Model Training
+Overfitting: The model learns the training data too well & doesn't generalize to new data
+Underfitting: The model is too simple & fails to capture the underlying patterns in the data.
+Early stopping can be used to prevent overfitting during training.
+
+Step 5: Model Deployment & Monitoring
+Deploying machine learning models in real-world environments can be complex & requires careful planning.
+Techniques like A/B testing help evaluate a model's performance in production and compare it with other models.
