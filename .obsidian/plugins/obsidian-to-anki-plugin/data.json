@@ -78,7 +78,9 @@
     "Amazon Bedrock Model Providers.md": "50adc3d25d554fa83c48e4efd99e611b",
     "Amazon OpenSearch Service.md": "f10b1d3188aaadb33104ef54adbadda2",
     "Amazon Bedrock Model Providers 1.md": "11d99ff230c7f7bf7499aeadbd37a6ed",
-    "AI Vs ML Vs Deep Learning.md": "a741b8c9ceac6e8a7e112e03d15393a0"
+    "AI Vs ML Vs Deep Learning.md": "a5685098db32f7b1c5298fd3af72aca2",
+    "Evaluating Classification Models.md": "68b329da9893e34099c7d8ad5cb9c940",
+    "Data preprocessing essentials.md": "f50463bc9690a12ab3c66c0a1176a8f1"
   },
   "fields_dict": {
     "Basic": [
