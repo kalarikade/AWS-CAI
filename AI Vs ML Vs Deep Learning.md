@@ -67,3 +67,7 @@ Data that represents numerical measurements or counts.
 *Example*
 Discrete : 0,1,2
 Continuous: 1.1, 3.3
+
+## Types of machine learning
+*Supervised Learning*: The algorithm learns from labelled examples, like a student learning from a textbook with answer keys.
+*Unsupervised Learning*: The algorithm finds patterns in unlabeled data, like a detective piecing together clues without knowing the solution beforehand.
